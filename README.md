@@ -33,3 +33,6 @@ Helps identify top-selling product categories and underperforming ones.
 Provides clarity on outlet performance by region and size.
 
 Supports decision-making for inventory planning and sales strategy.
+
+
+<img width="1289" height="754" alt="Dashboard_Blinkit_Grocery" src="https://github.com/user-attachments/assets/d67ae26c-e92a-4058-bd60-621ca8a027ce" />
